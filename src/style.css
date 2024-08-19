@@ -25,7 +25,7 @@ strong {
 .weather-project {
   background-color: lavender;
   max-width: 600px;
-  margin: 45 auto;
+  margin: 45px auto;
   padding: 30px;
   box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
   border-radius: 16px;
